@@ -2,8 +2,8 @@
 
 ## Images
 
---image=tunadonmez/microservices-currency-exchange-service:0.0.12-SNAPSHOT
---image=tunadonmez/microservices-currency-conversion-service:0.0.12-SNAPSHOT
+- tunadonmez/microservices-currency-exchange-service:0.0.12-SNAPSHOT
+- tunadonmez/microservices-currency-conversion-service:0.0.12-SNAPSHOT
 
 ## URLS
 
